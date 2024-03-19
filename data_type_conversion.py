@@ -1,0 +1,9 @@
+x=1
+y=2.8
+z=5j
+a=int(y)
+b=complex(x)
+c=float(x)
+print(a)
+print(b)
+print(c)
